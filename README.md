@@ -1,8 +1,20 @@
 # Joy_Automation
 
 ## Automatic Language detection and translation with Google Translator
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-brightgreen)
+![Languages](https://img.shields.io/badge/Languages-Multilingual-blue)
 
+### Overview
+One of the significant challenges in Natural Language Processing (NLP) is dealing with text data in various languages. This code snippet demonstrates how to detect the language used in text data and translate it into English using Google Translator.
 
+### Packages
+   Ensure you have the necessary Python packages installed. You can install them using pip:
+   This code needs pandas, langdetect, spacy
+   
+### Important Notes
+   - **Language Detection Options**: In this code, we've showcased both `langdetect` and `spaCy` for language detection. You have the flexibility to choose the one that suits your needs best.
+   -  **Verification of Language Detection**: After obtaining language detection results, it's a recommended practice to verify whether the detected language is correctly categorized. Ensuring accurate language identification is essential for reliable translations.
+   -  **Universal Translation to English**: The code provided in the translation section demonstrates the translation of text in various languages into English. This enables you to work with a standardized language (English) for downstream Natural Language Processing (NLP) tasks.
 
 
 ------------------------------
