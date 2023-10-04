@@ -1,5 +1,11 @@
 # Joy_Automation
 
+## Automatic Language detection and translation with Google Translator
+
+
+
+
+
 ## predoc.org web scrapping
 
 ### Introduction
