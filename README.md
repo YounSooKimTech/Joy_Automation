@@ -19,6 +19,7 @@ One of the significant challenges in Natural Language Processing (NLP) is dealin
 
 ------------------------------
 ## predoc.org web scrapping
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Enabled-green)
 
 ### Introduction
 
