@@ -1,8 +1,36 @@
 # Joy_Automation
-
-## Automatic Language detection and translation with Google Translator
 ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-Multilingual-blue)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Enabled-green)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FFA500?style=for-the-badge)
+![Task Automation](https://img.shields.io/badge/Task%20Automation-4B0082?style=for-the-badge)
+![Google Form](https://img.shields.io/badge/Google%20Form-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+
+## 📊 Gardner's Multiple Intelligence Theory Questionnaire & Data Visualization
+This project revolves around a simplified questionnaire based on Gardner's multiple intelligence theory. When individuals answer these questions, the data is collected and stored in a Google Form response spreadsheet.
+
+### Data Collection
+- A Google Form is used to gather responses from participants.
+- Responses are stored in a Google Sheets spreadsheet for easy data management.
+
+### Data Visualization
+- The collected data is processed and analyzed to create spider charts.
+- Spider charts visually compare an individual's strengths and weaknesses relative to the overall average.
+- The title of each spider chart is generated based on the user's name input.
+- PNG files of these charts are saved under the user's email address.
+
+### Email Notification
+- As a final step, the project automatically sends the generated PNG chart as an email attachment to each participant's email address.
+
+This system allows for a comprehensive assessment of individual strengths and weaknesses, providing a personalized visualization of the results.
+If you have any questions or feedback about the project, please don't hesitate to reach out by yk2949@columbia.edu
+
+
+----------------------------------------
+
+## Automatic Language detection and translation with Google Translator
+
 
 ### Overview
 One of the significant challenges in Natural Language Processing (NLP) is dealing with text data in various languages. This code snippet demonstrates how to detect the language used in text data and translate it into English using Google Translator.
@@ -19,7 +47,6 @@ One of the significant challenges in Natural Language Processing (NLP) is dealin
 
 ------------------------------
 ## predoc.org web scrapping
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Enabled-green)
 
 ### Introduction
 
