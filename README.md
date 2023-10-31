@@ -1,7 +1,7 @@
 # Joy_Automation
 ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-brightgreen?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-Multilingual-blue?style=for-the-badge)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Enabled-green?style=for-the-badge)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-predoc.org-green?style=for-the-badge)
 
 ![Google Form](https://img.shields.io/badge/Google%20Form-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-4285F4?style=for-the-badge&logo=google&logoColor=white)
