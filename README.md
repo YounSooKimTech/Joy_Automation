@@ -29,7 +29,7 @@ This project revolves around a simplified questionnaire based on Gardner's multi
 This system allows for a comprehensive assessment of individual strengths and weaknesses, providing a personalized visualization of the results.
 
 
-
+<br>
 ## 📝 Automatic Language detection and translation with Google Translator
 
 
@@ -46,7 +46,6 @@ One of the significant challenges in Natural Language Processing (NLP) is dealin
    -  **Universal Translation to English**: The code provided in the translation section demonstrates the translation of text in various languages into English. This enables you to work with a standardized language (English) for downstream Natural Language Processing (NLP) tasks.
 
 <br>
-------------------------------
 ## 🌐 predoc.org web scrapping
 
 ### Introduction
