@@ -30,6 +30,7 @@ This system allows for a comprehensive assessment of individual strengths and we
 
 
 <br>
+
 ## 📝 Automatic Language detection and translation with Google Translator
 
 
@@ -46,6 +47,7 @@ One of the significant challenges in Natural Language Processing (NLP) is dealin
    -  **Universal Translation to English**: The code provided in the translation section demonstrates the translation of text in various languages into English. This enables you to work with a standardized language (English) for downstream Natural Language Processing (NLP) tasks.
 
 <br>
+
 ## 🌐 predoc.org web scrapping
 
 ### Introduction
