@@ -7,9 +7,8 @@
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-
-
 - If you have any questions or feedback about the project, please don't hesitate to reach out by yk2949@columbia.edu
+<br>
 
 ## 📊 Gardner's Multiple Intelligence Theory Questionnaire & Data Visualization
 This project revolves around a simplified questionnaire based on Gardner's multiple intelligence theory. When individuals answer these questions, the data is collected and stored in a Google Form response spreadsheet.
