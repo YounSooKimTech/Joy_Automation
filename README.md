@@ -28,8 +28,7 @@ This project revolves around a simplified questionnaire based on Gardner's multi
 
 This system allows for a comprehensive assessment of individual strengths and weaknesses, providing a personalized visualization of the results.
 
-<br>
-----------------------------------------
+
 
 ## 📝 Automatic Language detection and translation with Google Translator
 
