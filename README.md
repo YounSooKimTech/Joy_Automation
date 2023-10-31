@@ -5,7 +5,7 @@
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FFA500?style=for-the-badge)
 ![Task Automation](https://img.shields.io/badge/Task%20Automation-4B0082?style=for-the-badge)
 ![Google Form](https://img.shields.io/badge/Google%20Form-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
+- If you have any questions or feedback about the project, please don't hesitate to reach out by yk2949@columbia.edu
 
 ## 📊 Gardner's Multiple Intelligence Theory Questionnaire & Data Visualization
 This project revolves around a simplified questionnaire based on Gardner's multiple intelligence theory. When individuals answer these questions, the data is collected and stored in a Google Form response spreadsheet.
@@ -24,12 +24,10 @@ This project revolves around a simplified questionnaire based on Gardner's multi
 - As a final step, the project automatically sends the generated PNG chart as an email attachment to each participant's email address.
 
 This system allows for a comprehensive assessment of individual strengths and weaknesses, providing a personalized visualization of the results.
-If you have any questions or feedback about the project, please don't hesitate to reach out by yk2949@columbia.edu
-
 
 ----------------------------------------
 
-## Automatic Language detection and translation with Google Translator
+## 📝 Automatic Language detection and translation with Google Translator
 
 
 ### Overview
@@ -46,7 +44,7 @@ One of the significant challenges in Natural Language Processing (NLP) is dealin
 
 
 ------------------------------
-## predoc.org web scrapping
+## 🌐 predoc.org web scrapping
 
 ### Introduction
 
