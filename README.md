@@ -1,11 +1,12 @@
 # Joy_Automation
-![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-Multilingual-blue)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Enabled-green)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-brightgreen?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Languages-Multilingual-blue?style=for-the-badge)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Enabled-green?style=for-the-badge)
 
 ![Google Form](https://img.shields.io/badge/Google%20Form-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
 
 
 - If you have any questions or feedback about the project, please don't hesitate to reach out by yk2949@columbia.edu
