@@ -2,8 +2,7 @@
 ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-Multilingual-blue)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Enabled-green)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FFA500?style=for-the-badge)
-![Task Automation](https://img.shields.io/badge/Task%20Automation-4B0082?style=for-the-badge)
+
 ![Google Form](https://img.shields.io/badge/Google%20Form-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
